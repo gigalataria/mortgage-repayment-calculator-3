@@ -1,0 +1,196 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: hsl(202, 86%, 94%);
+}
+
+.container {
+  display: flex;
+}
+
+.left-div {
+  background-color: white;
+}
+
+.right-div {
+  background-color: hsl(202, 55%, 16%);
+}
+
+.interest-div {
+  display: flex;
+  gap: 20px;
+}
+
+.year-div {
+  display: flex;
+  border: 1px solid black;
+}
+
+.input-2 {
+  border: none;
+  outline: none;
+  height: 40px;
+}
+
+.percent-div {
+  display: flex;
+  border: 1px solid black;
+}
+
+.input-3 {
+  border: none;
+  outline: none;
+  height: 40px;
+}
+
+.top-div {
+  display: flex;
+  gap: 80px;
+}
+
+.h1 {
+  margin: 0px;
+}
+
+.p-1 {
+  text-decoration: underline;
+  color: hsl(203, 41%, 72%);
+  margin: 15px;
+  margin-right: 10px;
+}
+
+.p-2 {
+  color: hsl(200, 26%, 54%);
+  margin-top: 40px;
+  margin-bottom: 30px;
+}
+
+.amount-div {
+  display: flex;
+  border: 1px solid black;
+  width: 420px;
+}
+
+.input-1 {
+  border: none;
+  outline: none;
+}
+
+.p-3 {
+  background-color: hsl(203, 41%, 72%);
+  width: 30px;
+  height: 30px;
+}
+
+.interest-div {
+  margin-top: 20px;
+}
+
+.p-4 {
+  margin-bottom: 10px;
+}
+
+.p-5 {
+  background-color: hsl(203, 41%, 72%);
+}
+
+.p-6 {
+  margin-bottom: 10px;
+}
+
+.p-7 {
+  background-color: hsl(203, 41%, 72%);
+  width: 20px;
+}
+
+.p-8 {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.input-4 {
+  border: none;
+  outline: none;
+}
+
+.radio-1 {
+  border: 1px solid black;
+  width: 420px;
+}
+
+.input-5 {
+  border: none;
+  outline: none;
+}
+
+.radio-2 {
+  border: 1px solid black;
+  width: 420px;
+}
+
+.button-div {
+  display: flex;
+  background-color: hsl(61, 70%, 52%);
+  width: 250px;
+  border-radius: 20px;
+  margin-top: 20px;
+  height: 30px;
+}
+
+.h2 {
+  color: white;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.p-10 {
+  color: hsl(200, 26%, 54%);
+  width: 400px;
+  margin-bottom: 40px;
+  margin-left: 10px;
+}
+
+.p-11 {
+  margin-top: 10px;
+  margin-left: 10px;
+  color: hsl(200, 26%, 54%);
+}
+
+.bottom-div {
+  border-top: 3px solid hsl(61, 70%, 52%);
+  width: 300px;
+  margin-left: 40px;
+  background-color: hsl(202, 77%, 12%);
+  height: 200px;
+}
+
+.h3 {
+  color: hsl(61, 70%, 52%);
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 40px;
+  height: 60px;
+  border-bottom: 1px rgb(185, 184, 184) solid;
+  margin-right: 10px;
+}
+
+.p-12 {
+  margin-top: 10px;
+  margin-left: 10px;
+  color: hsl(200, 26%, 54%);
+}
+
+.h4 {
+  margin-top: 10px;
+  margin-left: 10px;
+  color: white;
+}
